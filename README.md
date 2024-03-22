@@ -9,8 +9,8 @@ Working on a few small side projects outside of University. Aimed at automating 
 |-----:|-----------|
 |     1| Java      |
 |     2| Python    |
-|     3| C#        |
-|     4| SQL       |
+|     3| SQL        |
+|     4| C#       |
 
 ---
 > HTML is **NOT** a programming language.
